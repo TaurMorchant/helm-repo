@@ -3,21 +3,21 @@ entries:
   service-a:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-07-29T12:08:26.10171114Z"
+    created: "2025-07-29T12:12:00.559933509Z"
     description: Service chart for service-a microservice
-    digest: a86de774b491d06b7a450469c128e297685bae276ba9973fc55e4448a2b0fac0
+    digest: 2173bd934a97f2e9e061ab1956b1582a0bbef43fa07f8c280c3311115676ce4c
     name: service-a
     urls:
-    - https://organization.github.io/helm-repo/service-a-1.0.0.tgz
+    - https://taurmorchant.github.io/helm-repo/service-a-1.0.0.tgz
     version: 1.0.0
   service-b:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-07-29T12:08:26.101873695Z"
+    created: "2025-07-29T12:12:00.560079828Z"
     description: Service chart for service-b microservice
     digest: 5e5077f52799eab1c6ab08a491bd611698294a080fbb34169711bfa1605b8809
     name: service-b
     urls:
-    - https://organization.github.io/helm-repo/service-b-1.0.0.tgz
+    - https://taurmorchant.github.io/helm-repo/service-b-1.0.0.tgz
     version: 1.0.0
-generated: "2025-07-29T12:08:26.101418523Z"
+generated: "2025-07-29T12:12:00.559660448Z"
